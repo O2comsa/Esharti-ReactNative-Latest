@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333932333949",
+    "project_id": "eshartiapp",
+    "storage_bucket": "eshartiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333932333949:android:d6e2e03fab4054ca581a14",
+        "android_client_info": {
+          "package_name": "com.oxygen.esharty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBttWJ_U_-bg-LDMPPL9p0zK1ervRIjZ8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
